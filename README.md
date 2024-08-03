@@ -23,7 +23,7 @@ Something to highlight is that the stock and ordered items tables are the tables
 
 ## Schematic representation of the database
 
-
+![Schematic](https://github.com/NixonGarciaRamirez/Proyecto-de-estructura-de-base-de-datos-SQL/blob/main/esquema.png)
 
 ## Descripción
 
