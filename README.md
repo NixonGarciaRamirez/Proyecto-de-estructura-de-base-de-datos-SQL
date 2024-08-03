@@ -23,7 +23,7 @@ Something to highlight is that the stock and ordered items tables are the tables
 
 ## Schematic representation of the database
 
-¡(https://github.com/NixonGarciaRamirez/Proyecto-de-estructura-de-base-de-datos-SQL/blob/main/esquema.png)
+
 
 ## Descripción
 
@@ -47,5 +47,4 @@ Este proyecto es la representacion basica de una estructura de ordenenes de comp
 Algo a resaltar es que las tablas stocks y articulos ordenados son las tablas que permiten la union e inteccion entre las 2 bases de datos de "motos" y "produccion" permitiendo analizar la informacion en conjunto, de esa forma se puede saber las marcas disponibles por tiendas o las principales ordenes segun la categoria de los productos.
 
 ## Representacion esquematica de la base de datos
-
-  
+¡[Esquema de la base de datos](https://github.com/NixonGarciaRamirez/Proyecto-de-estructura-de-base-de-datos-SQL/blob/main/esquema.png)
